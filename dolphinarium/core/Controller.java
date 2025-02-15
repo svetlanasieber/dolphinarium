@@ -1,6 +1,6 @@
 package dolphinarium.core;
 
-//TODO Implement all methods
+
 
 public interface Controller {
     String addPool(String poolType, String poolName);
