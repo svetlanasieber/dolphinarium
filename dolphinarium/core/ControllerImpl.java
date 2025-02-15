@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 import static dolphinarium.common.ConstantMessages.*;
 import static dolphinarium.common.ExceptionMessages.*;
 
-//TODO Implement all methods
+
 public class ControllerImpl implements Controller {
     private FoodRepository foodRepository;
     private Map<String, Pool> pools;
